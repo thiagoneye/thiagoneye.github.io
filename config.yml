@@ -27,6 +27,7 @@ menu:
 
 params:
   DateFormat: "January 2006"
+  defaultTheme: light
   hideFooter: true
   profileMode:
     enabled: true
@@ -36,20 +37,19 @@ params:
     imageTitle: "Profile Picture" # optional
     imageWidth: 160 # custom size
     imageHeight: 160 # custom size
-    buttons:
-      - name: "About Me"
-        url: about_me/
-      - name: Experience
-        url: experience/
-      - name: Research
-        url: research/
-      - name: Publications
-        url: publications/
-      - name: Others
-        url: others/
-      - name: Contact
-        url: contact/
-
+#    buttons:
+#      - name: "About Me"
+#        url: about_me/
+#      - name: Experience
+#        url: experience/
+#      - name: Research
+#        url: research/
+#      - name: Publications
+#        url: publications/
+#      - name: Others
+#        url: others/
+#      - name: Contact
+#        url: contact/
   socialIcons: # optional
     - name: Email
       url: mailto:thiagoneye@outlook.com
