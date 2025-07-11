@@ -1,6 +1,7 @@
 ---
 title: "Contact"
-url: "/contact/"
+aliases:
+    - /contact.html
 hidemeta: true
 ---
 
