@@ -4,3 +4,39 @@ title: Thiago Rodrigues
 theme: PaperMod
 publishDir: docs
 
+params:
+  profileMode:
+    enabled: true
+    title: "Thiago Rodrigues" # optional default will be site title
+    subtitle: "Bachelor's degree in Mechanical Engineering from UFPB, currently pursuing a Specialization in Data Engineering at PUC Minas and a Master's in Computer Science at UFPB. Conduct research at TRIL Lab, focusing on applying Data-Driven Techniques and Scientific Machine Learning approaches to model and solve engineering problems."
+    imageUrl: "picture.jpg" # optional
+    imageWidth: 160 # custom size
+    imageHeight: 160 # custom size
+    buttons:
+      - name: Home
+        url: home/
+      - name: Experience
+        url: experience/
+      - name: Research
+        url: research/
+      - name: Publications
+        url: publications/
+      - name: Others
+        url: others/
+      - name: Contact
+        url: contact/
+
+  socialIcons: # optional
+    - name: Email
+      url: mailto:thiagoneye@outlook.com
+    - name: Location
+      url: contact/
+    - name: GitHub
+      url: https://github.com/thiagoneye
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/thiagoney
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Thiago_Rodrigues16
+    - name: ORCID
+      url: https://orcid.org/0000-0002-0100-608X
+
