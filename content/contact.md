@@ -1,10 +1,21 @@
+---
+title: "Contact"
+url: "/contact/"
+hidemeta: true
+---
+
 ## Address
 
 Federal University of Paraíba, Center of Informatics (CI) - Campus I
+
 Street: Rua dos Escoteiros
+
 Neighborhood: Mangabeira
+
 ZIP Code: 58.058-600
+
 João Pessoa, PB - Brazil
+
 Phone Number: +55 (83) 9 9818-1786
 
 ## Office Localization
