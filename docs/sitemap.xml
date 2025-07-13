@@ -2,14 +2,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thiagoneye.github.io/tags/aerodynamics/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/data-driven-techniques/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/dimensionality-reduction/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/dynamic-mode-decomposition/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/publications/paper1/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/fluid-dynamics/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/machine-learning/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/modal-analysis/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/publications/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/scientific-machine-learning/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/research/research4/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/combinatorial-optimization/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/hydraulic-flow-unit/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/mrst/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/research/research3/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/oil--gas/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/operations-research/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/petrophysics/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/porous-medium/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/process-optimization/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/production-planning-and-control/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/research/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/reservoir-modeling/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/well-characterization/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/aircraft-design/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/research/research2/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/flight-mechanics/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/stability-and-control-analysis/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/unmanned-aerial-vehicle/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/research/research1/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thiagoneye.github.io/tags/computer-aided-design/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://thiagoneye.github.io/about_me/</loc>
+  </url><url>
+    <loc>https://thiagoneye.github.io/research/research7/</loc>
   </url><url>
     <loc>https://thiagoneye.github.io/categories/</loc>
   </url><url>
     <loc>https://thiagoneye.github.io/contact/</loc>
   </url><url>
-    <loc>https://thiagoneye.github.io/</loc>
+    <loc>https://thiagoneye.github.io/research/research6/</loc>
   </url><url>
-    <loc>https://thiagoneye.github.io/tags/</loc>
+    <loc>https://thiagoneye.github.io/research/research5/</loc>
   </url>
 </urlset>

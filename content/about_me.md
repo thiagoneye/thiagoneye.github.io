@@ -4,7 +4,9 @@ aliases:
     - /about_me.html
 ---
 
-### Education
+---
+
+## Education
 
 * **Master's Degree in Computer Science** (2026)\
 **Institution:** Federal University of Paraíba, UFPB, Brazil\
@@ -19,16 +21,32 @@ aliases:
 **Title:** Numerical Study of Transient Heat Transfer in Nuclear Reactor Fuel Rods\
 **Advisor:** [PhD. Jacques Cesar dos Santos](http://lattes.cnpq.br/3095303507056273/).
 
-### Skills
+---
 
+## Skills
 
+* Languages: `python` `matlab` `shell`
+* Software Engineering: `object-oriented programming` `solid` `design patterns`
+* Quality Assurence: `unittest`
+* Data Science: `artificial intelligence` `machine learning` `statistics` `data-mining`
+* Data Engineering: `apache hop` `apache beam`
+* Database: `sql` `mysql` `sql server` `postgresql` `sqlite` `nosql` `mongodb`
+* CI/CD: `git` `github`
+* Operating System: `windows` `linux` 
+* DataViz: `microsoft power-bi` 
+* CAD: `autodesk inventor` `solidworks` `autodesk fusion`
+* Others: `microsoft office` `microsoft power-apps` `microsoft power-automate` `latex`
 
-### Languages
+---
+
+## Languages
 
 * **Portuguese:** Native
 * **English:** Intermediary (In Development)
 
-### Honors & Awards
+---
+
+## Honors & Awards
 
 * (2022) **1st place** at the Industrial Academy, Moura Group
 * (2021) **2nd place** at the Internship Academy, Moura Group
@@ -37,7 +55,9 @@ aliases:
 * (2010) **Honorable mention**, Brazilian Public School Mathematics Olympiad
 * (2009) **Honorable mention**, Brazilian Public School Mathematics Olympiad
 
-### Hobbies
+---
 
-His interests include appreciating classic cinema, exploring a vast musical universe that spans rock, MPB, samba, reggae, jazz, and blues, dedicating time to reading both scientific and non-scientific works, practicing various sports such as swimming, running, weight training, rappelling, and cycling, in addition to playing chess.
+## Hobbies
+
+His interests include appreciating classic **cinema**, exploring a vast **musical** universe that spans rock, MPB, samba, reggae, jazz, and blues, dedicating time to **reading** both scientific and non-scientific works, practicing various **sports** such as swimming, running, weight training, rappelling, and cycling, in addition to playing **chess**.
 

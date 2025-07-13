@@ -32,7 +32,7 @@ params:
   profileMode:
     enabled: true
     title: "Thiago Rodrigues" # optional default will be site title
-    subtitle: "Bachelor's degree in Mechanical Engineering from UFPB, currently pursuing a Specialization in Data Engineering at PUC Minas and a Master's in Computer Science at UFPB. Conduct research at TRIL Lab, focusing on applying Data-Driven Techniques and Scientific Machine Learning approaches to model and solve engineering problems."
+    subtitle: "Bachelor's degree in Mechanical Engineering from UFPB, currently pursuing a Specialization in Data Engineering at PUC Minas and a Master's in Computer Science at UFPB. Conduct research at TRIL Lab, focusing on applying Data-Driven Techniques and Scientific Machine Learning approaches to model and solve engineering problems. Enthusiastic about scientific and technological development, he aims to develop projects for the benefit of humanity."
     imageUrl: "/picture.jpeg" # optional
     imageTitle: "Profile Picture" # optional
     imageWidth: 160 # custom size

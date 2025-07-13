@@ -4,15 +4,52 @@
     <title>Home</title>
     <link>https://thiagoneye.github.io/</link>
     <description>Recent content on Home</description>
-    <generator>Hugo -- 0.148.0</generator>
+    <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://thiagoneye.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dynamic Mode Decomposition of Large-Scale Aerodynamic Simulations of Base-Bleed Projectiles</title>
+      <link>https://thiagoneye.github.io/publications/paper1/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/publications/paper1/</guid>
+      <description>This study applies Dynamic Mode Decomposition to analyze and reduce CFD data of base-bleed military projectiles, identifying dominant dynamic modes of the velocity field from 2D axisymmetric simulations.</description>
+    </item>
+    <item>
+      <title>Application of Optimization Techniques in Industrial Environments</title>
+      <link>https://thiagoneye.github.io/research/research4/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/research/research4/</guid>
+      <description>Operations Research enables optimal production scheduling by efficiently allocating resources and sequencing tasks to maximize productivity and minimize delays.</description>
+    </item>
+    <item>
+      <title>Numerical Modeling and Characterization of Oil Reservoirs</title>
+      <link>https://thiagoneye.github.io/research/research3/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/research/research3/</guid>
+      <description>Computational representation of the physical and geological characteristics of the reservoir to predict hydrocarbon production and optimize its exploration.</description>
+    </item>
+    <item>
+      <title>Flight Dynamics Analysis and Control Surface Design</title>
+      <link>https://thiagoneye.github.io/research/research2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/research/research2/</guid>
+      <description>Study and optimization of an aircraft&amp;rsquo;s motion and stability through the design of aerodynamic control surfaces.</description>
+    </item>
+    <item>
+      <title>3D Modeling and Technical Drawings of Mechanical Systems</title>
+      <link>https://thiagoneye.github.io/research/research1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/research/research1/</guid>
+      <description>Creation of three-dimensional representations and detailed technical drawings of mechanical systems, aiming to design, analyze, and manufacture components with precision.</description>
+    </item>
     <item>
       <title>About Me</title>
       <link>https://thiagoneye.github.io/about_me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://thiagoneye.github.io/about_me/</guid>
-      <description>&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Master&amp;rsquo;s Degree in Computer Science&lt;/strong&gt; (2026)&lt;br&gt;
@@ -31,13 +68,22 @@
 &lt;strong&gt;Advisor:&lt;/strong&gt; &lt;a href=&#34;http://lattes.cnpq.br/3095303507056273/&#34;&gt;PhD. Jacques Cesar dos Santos&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Application of Scientific Machine Learning Techniques for Fluid Dynamics Analysis</title>
+      <link>https://thiagoneye.github.io/research/research7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/research/research7/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Contact</title>
       <link>https://thiagoneye.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://thiagoneye.github.io/contact/</guid>
-      <description>&lt;h3 id=&#34;e-mail&#34;&gt;E-mail&lt;/h3&gt;
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;e-mail&#34;&gt;E-mail&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;mailto:thiagoneye@outlook.com&#34;&gt;thiagoneye@outlook.com&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;address&#34;&gt;Address&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;address&#34;&gt;Address&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;University:&lt;/strong&gt; Federal University of Paraíba, Center of Informatics (CI)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Street:&lt;/strong&gt; Rua dos Escoteiros&lt;/li&gt;
@@ -47,8 +93,23 @@
 &lt;li&gt;&lt;strong&gt;Country:&lt;/strong&gt; Brazil&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Postal Code:&lt;/strong&gt; 58.058-600&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;office-localization&#34;&gt;Office Localization&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;office-localization&#34;&gt;Office Localization&lt;/h2&gt;
 &lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Modal Analysis of Fluid Dynamics</title>
+      <link>https://thiagoneye.github.io/research/research6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/research/research6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Numerical Methods for Simulating Transport Phenomena</title>
+      <link>https://thiagoneye.github.io/research/research5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/research/research5/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
