@@ -3,7 +3,7 @@ title: "Graphical Methods for Delineating Flow Units in Oil Reservoirs: Concepts
 date: 2021-02-08
 tags: ["Reservoir Modeling", "Well Characterization", "Oil & Gas", "Hydraulic Flow Unit", "MRST", "Petrophysics", "Porous Medium"]
 author: ["Rodrigues, T.N.E.", "Oliveira, G.C.P."]
-summary: "This paper reviews key graphical methods for petrophysical analysis aimed at identifying and classifying flow units in reservoirs."
+summary: "This paper (preprint) reviews key graphical methods for petrophysical analysis aimed at identifying and classifying flow units in reservoirs."
 ---
 
 ---
