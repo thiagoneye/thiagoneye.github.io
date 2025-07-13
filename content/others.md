@@ -41,3 +41,5 @@ aliases:
 * **[From Data to Viz](https://www.data-to-viz.com/)** leads you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid.
 
 * **[Data Viz Project](https://datavizproject.com/)**, the most comprehensive archive of data visualizations.
+
+* Get **[HTML Color Codes](https://htmlcolorcodes.com/)**, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names.

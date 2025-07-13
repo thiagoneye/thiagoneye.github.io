@@ -1,7 +1,7 @@
 ---
 title: "Application of Optimization Techniques in Industrial Environments"
 date: 2021-12-20
-tags: ["Operations Research", "Combinatorial Optimization", "Production Planning and Control", "Process Optimization"]
+tags: ["Operations Research", "Combinatorial Optimization", "Process Optimization"]
 summary: "Application of the ant colony optimization algorithm for scheduling items in assembly lines."
 showToc: true
 ---

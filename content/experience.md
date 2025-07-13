@@ -8,14 +8,18 @@ aliases:
 
 ## Professional
 
-* **Process Engineering Analyst** (Jan 2024 - Feb 2025) - [Moura Group](https://www.moura.com.br/) \
-Direct report to the Production Manager, responsible for quality management and improvement of the production process of automotive battery plates.
-Experience in the following processes: Cominco expansion, mills, particulate transport, mixing machines, pasting, curing greenhouses and drying.
+### [Moura Group](https://www.moura.com.br/)
 
-* **Data Analyst** (May 2022 - Dec 2023) - [Moura Group](https://www.moura.com.br/) \
+It is the market leader in South America. Since 1957, in the city of Belo Jardim, Pernambuco, it has fulfilled the dream of visionary entrepreneurs Edson Mororó Moura and his wife, Conceição Moura. Initially focused on the automotive sector, the company has expanded its operations to other segments, now producing batteries and energy storage systems for a wide range of applications, such as motorcycles, boats, forklifts, uninterruptible power supplies (UPS), subways, trains, telephone stations, storage systems, among others.
+
+* **Process Engineering Analyst** (Jan 2024 - Feb 2025) \
+Direct report to the Production Manager, responsible for quality management and improvement of the production process of automotive battery plates.
+Experience in the following processes: Cominco expansion, mills, particulate transport, mixing machines, pasting, curing and drying ovens.
+
+* **Data Analyst** (May 2022 - Dec 2023) \
 Direct report to the management and control manager, responsible for developing digital solutions to optimize manufacturing and support areas, contributing to analysis and decision-making processes.
 
-* **Engineering Intern** (Apr 2021 - May 2022) - [Moura Group](https://www.moura.com.br/) \
+* **Engineering Intern** (Apr 2021 - May 2022) \
 Development of digital solutions to optimize manufacturing and support areas, contributing to analysis and decision-making processes.
 
 ---
@@ -23,7 +27,7 @@ Development of digital solutions to optimize manufacturing and support areas, co
 ## Academic
 
 * **Data Scientist** (Mar 2025 - Present) - [CS and CIS Joint chapter at UFPB](https://sites.google.com/view/ieee-cs-cis-joint-chapter/) \
-Volunteer in the Computational Intelligence department.
+Volunteer in the Computational Intelligence department of IEEE UFPB.
 
 * **Teaching Assistant** (Sep 2020 - Jul 2021) - [UFPB](https://gcpeixoto.github.io/LVMN/ipynb/conteudo.html) \
 Teaching Assistant Project for the Numerical Calculus course.
