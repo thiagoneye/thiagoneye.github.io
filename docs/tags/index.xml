@@ -65,6 +65,55 @@
       <description></description>
     </item>
     <item>
+      <title>Computational Fluid Dynamics</title>
+      <link>https://thiagoneye.github.io/tags/computational-fluid-dynamics/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/computational-fluid-dynamics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Differential Equations</title>
+      <link>https://thiagoneye.github.io/tags/differential-equations/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/differential-equations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Heat Transfer</title>
+      <link>https://thiagoneye.github.io/tags/heat-transfer/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/heat-transfer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Numerical Analysis</title>
+      <link>https://thiagoneye.github.io/tags/numerical-analysis/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/numerical-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transport Phenomena</title>
+      <link>https://thiagoneye.github.io/tags/transport-phenomena/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/transport-phenomena/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep Learning</title>
+      <link>https://thiagoneye.github.io/tags/deep-learning/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pattern Recognition</title>
+      <link>https://thiagoneye.github.io/tags/pattern-recognition/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/pattern-recognition/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Combinatorial Optimization</title>
       <link>https://thiagoneye.github.io/tags/combinatorial-optimization/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
@@ -142,6 +191,27 @@
       <description></description>
     </item>
     <item>
+      <title>Clustering</title>
+      <link>https://thiagoneye.github.io/tags/clustering/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/clustering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hydraulic Flow Units</title>
+      <link>https://thiagoneye.github.io/tags/hydraulic-flow-units/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/hydraulic-flow-units/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reservoir Modelling</title>
+      <link>https://thiagoneye.github.io/tags/reservoir-modelling/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/reservoir-modelling/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Aircraft Design</title>
       <link>https://thiagoneye.github.io/tags/aircraft-design/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -156,10 +226,17 @@
       <description></description>
     </item>
     <item>
-      <title>Stability and Control Analysis</title>
-      <link>https://thiagoneye.github.io/tags/stability-and-control-analysis/</link>
+      <title>Handling Qualities</title>
+      <link>https://thiagoneye.github.io/tags/handling-qualities/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/tags/stability-and-control-analysis/</guid>
+      <guid>https://thiagoneye.github.io/tags/handling-qualities/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stability and Control</title>
+      <link>https://thiagoneye.github.io/tags/stability-and-control/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/stability-and-control/</guid>
       <description></description>
     </item>
     <item>

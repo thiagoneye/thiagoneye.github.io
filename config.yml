@@ -21,9 +21,12 @@ menu:
     - name: Others
       url: others/
       weight: 6
+    - name: Tags
+      url: tags/
+      weight: 7
     - name: Contact
       url: contact/
-      weight: 7
+      weight: 8
 
 params:
   DateFormat: "January 2006"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Deep Learning on Home</title>
+    <link>https://thiagoneye.github.io/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on Home</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://thiagoneye.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning Application for Weld Quality Characterization</title>
+      <link>https://thiagoneye.github.io/research/research5/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/research/research5/</guid>
+      <description>The dynamic resistance curve serves as a highly sensitive indicator for real-time assessment of weld spot quality.</description>
+    </item>
+  </channel>
+</rss>

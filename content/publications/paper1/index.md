@@ -1,21 +1,42 @@
 ---
-title: "Dynamic Mode Decomposition of Large-Scale Aerodynamic Simulations of Base-Bleed Projectiles" 
-date: 2025-06-02
-tags: ["Modal Analysis", "Fluid Dynamics", "Aerodynamics", "Dynamic Mode Decomposition", "Dimensionality Reduction", "Machine Learning", "Scientific Machine Learning", "Data-Driven Techniques"]
-author: ["Rodrigues, T.N.E.", "Lucena, R.M.", "Lemos, M.F.", "Mangiavacchi, N.", "Oliveira, G.C.P."]
-summary: "This study applies Dynamic Mode Decomposition to analyze and reduce CFD data of base-bleed military projectiles, identifying dominant dynamic modes of the velocity field from 2D axisymmetric simulations."
+title: "Assessment of Flow Indices and Field Sectoring for Strategic Oil Well Placement and Production" 
+date: 2019-08-19
+tags: ["Hydraulic Flow Units", "Reservoir Modelling", "Clustering", "Machine Learning"]
+author: ["Santos, M.R.B.", "Silva, L.C.", "Rodrigues, T.N.E.", "Oliveira, G.C.P."]
+summary: "This work investigates optimal well placement in a 3D heterogeneous reservoir by comparing different location strategies based on flow zone indicators (FZI and FZI*)."
 ---
 
 ---
 
 ## Abstract
 
-This work studies the application of **Dynamic Mode Decomposition (DMD)** to analyze and reduce data from CFD simulations of military projectiles with **base-bleed technology** (a system that reduces aerodynamic drag). From 870 axisymmetric two-dimensional simulations, DMD identified dominant dynamic modes of the axial velocity field. The approach resulted in a dimensionality reduction of approximately 99.31% and highlighted relevant modes. The next steps involve using these modes in machine learning models for national defense applications.
+The motivation of this work is to study the well location in 3D modelling reservoir with heterogeneous permeability behavior between different well location approaches. We aim to identify spots that improve the oil production through two versions of the flow zone indicator, termed FZI and FZI*, which are quantities statistically distributed throughout the porous medium and computed through linear regression. Using rock cluster determined by applying previous permeability average rules, it is possible to verify the reservoir clustering responses in high fluidity zones. Furthermore, production wells are placed strategically at points determined by each approach and subsequently a comparative between all the possibilities averages is shown after long period flow computational simulations performed by the Matlab® Reservoir Simulation Toolbox - MRST.
+
+---
+
+## Keywords
+
+`Flow Indicators` `Hydraulic Flow Units` `Well Placement` `Reservoir Modelling`
+
+---
+
+## Citation
+
+Santos, M.R.B., Silva, L.C., Rodrigues, T.N.E., Oliveira, G.C.P. 2019. Assessment of flow indices and field sectoring for strategic oil well placement and production. In: XXVI Congresso Nacional de Estudantes de Engenharia Mecânica. ABCM.
+
+```BibTeX
+@inproceedings{Santos2019,
+title      = {Assessment of flow indices and field sectoring for strategic oil well placement and production},
+booktitle  = {XXVI Congresso Nacional de Estudantes de Engenharia Mecânica},
+author     = {Santos, Marcos Ramon Bezerra dos and Silva, Lucas Cavalcanti and Rodrigues, Thiago Ney Evaristo and Oliveira, Gustavo Charles Peixoto de},
+publisher  = {ABCM},
+year       =  2019
+}
+```
 
 ---
 
 ## Related Material
 
-[ERAD-NE 2025](https://erad-ne.imd.ufrn.br/) aims to encourage the study and research in high-performance computing, computer architecture, distributed systems, parallel processing, and their applications in fields such as biology, engineering, physics, mathematics, computer science, medicine, finance, chemistry, among others.
-
+The National Congress of Mechanical Engineering (CONEM) is an event organized by the [Brazilian Society of Mechanical Engineering and Sciences (ABCM)](https://abcm.org.br/). Established in 1990, this biennial event encompasses all fields within mechanical engineering and sciences.
 

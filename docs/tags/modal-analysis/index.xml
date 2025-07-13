@@ -10,9 +10,9 @@
     <atom:link href="https://thiagoneye.github.io/tags/modal-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dynamic Mode Decomposition of Large-Scale Aerodynamic Simulations of Base-Bleed Projectiles</title>
-      <link>https://thiagoneye.github.io/publications/paper1/</link>
+      <link>https://thiagoneye.github.io/publications/paper4/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/publications/paper1/</guid>
+      <guid>https://thiagoneye.github.io/publications/paper4/</guid>
       <description>This study applies Dynamic Mode Decomposition to analyze and reduce CFD data of base-bleed military projectiles, identifying dominant dynamic modes of the velocity field from 2D axisymmetric simulations.</description>
     </item>
   </channel>

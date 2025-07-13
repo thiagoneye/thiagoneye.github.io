@@ -15,5 +15,19 @@
       <guid>https://thiagoneye.github.io/research/research3/</guid>
       <description>Computational representation of the physical and geological characteristics of the reservoir to predict hydrocarbon production and optimize its exploration.</description>
     </item>
+    <item>
+      <title>GAWPS: A MRST-based module for wellbore proﬁling and graphical analysis of ﬂow units</title>
+      <link>https://thiagoneye.github.io/publications/paper3/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/publications/paper3/</guid>
+      <description>GAWPS is a collection of computational routines intended to carry out wellbore profiling for flow unit detection in reservoir models. This acronym stands for Graphical Analysis for Well Placement Strategy.</description>
+    </item>
+    <item>
+      <title>Graphical Methods for Delineating Flow Units in Oil Reservoirs: Concepts and Applications</title>
+      <link>https://thiagoneye.github.io/publications/paper2/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/publications/paper2/</guid>
+      <description>This paper reviews key graphical methods for petrophysical analysis aimed at identifying and classifying flow units in reservoirs.</description>
+    </item>
   </channel>
 </rss>
