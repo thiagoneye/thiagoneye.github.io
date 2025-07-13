@@ -56,7 +56,7 @@ A hydraulic flow unit is a continuous and mappable volume of reservoir rock that
 
 Flow in porous media is the study of fluid movement (oil, gas, water) through the network of pores and pore throats of a reservoir rock. This process is governed by physical laws, with Darcy's Law being the basis for describing flow in laminar regimes:
 
-$$ q = i \dfrac{kA}{\mu} \dfrac{dP}{dx}$$
+$$ q = - \dfrac{kA}{\mu} \dfrac{dP}{dx}$$
  
 Where:
 

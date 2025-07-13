@@ -69,6 +69,7 @@ Many real-world problems in production, such as the Traveling Salesperson Proble
 The Ant Colony Optimization (ACO) algorithm is a metaheuristic inspired by the foraging behavior of real ants. It's used to find approximate solutions to combinatorial optimization problems, particularly those that can be reduced to finding paths on graphs.
 
 Here's how it generally works:
+
 * Pheromone Trails: When ants search for food, they deposit a chemical substance called pheromone on the ground. When other ants follow, they tend to choose paths with higher pheromone concentrations, reinforcing those paths. Over time, paths leading to good food sources accumulate more pheromone, becoming more attractive.
 * Exploration and Exploitation: The algorithm simulates this behavior. "Artificial ants" explore different solutions (paths) to the problem. They probabilistically choose the next step based on a combination of:
 * Pheromone intensity: The amount of "pheromone" on a particular path segment, representing its past success.
