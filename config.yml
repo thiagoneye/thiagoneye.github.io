@@ -45,14 +45,6 @@ params:
 #        url: about_me/
 #      - name: Experience
 #        url: experience/
-#      - name: Research
-#        url: research/
-#      - name: Publications
-#        url: publications/
-#      - name: Others
-#        url: others/
-#      - name: Contact
-#        url: contact/
   socialIcons: # optional
     - name: Email
       url: mailto:thiagoneye@outlook.com

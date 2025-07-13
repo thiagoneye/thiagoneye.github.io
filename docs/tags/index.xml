@@ -114,10 +114,52 @@
       <description></description>
     </item>
     <item>
+      <title>Data Analysis</title>
+      <link>https://thiagoneye.github.io/tags/data-analysis/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Process Optimization</title>
+      <link>https://thiagoneye.github.io/tags/process-optimization/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/process-optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistic</title>
+      <link>https://thiagoneye.github.io/tags/statistic/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/statistic/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Pattern Recognition</title>
       <link>https://thiagoneye.github.io/tags/pattern-recognition/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://thiagoneye.github.io/tags/pattern-recognition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Business Intelligence</title>
+      <link>https://thiagoneye.github.io/tags/business-intelligence/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/business-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Visualization</title>
+      <link>https://thiagoneye.github.io/tags/data-visualization/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Routine Automation</title>
+      <link>https://thiagoneye.github.io/tags/routine-automation/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/routine-automation/</guid>
       <description></description>
     </item>
     <item>
@@ -128,52 +170,10 @@
       <description></description>
     </item>
     <item>
-      <title>Hydraulic Flow Unit</title>
-      <link>https://thiagoneye.github.io/tags/hydraulic-flow-unit/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/tags/hydraulic-flow-unit/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>MRST</title>
-      <link>https://thiagoneye.github.io/tags/mrst/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/tags/mrst/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Oil &amp; Gas</title>
-      <link>https://thiagoneye.github.io/tags/oil--gas/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/tags/oil--gas/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Operations Research</title>
       <link>https://thiagoneye.github.io/tags/operations-research/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://thiagoneye.github.io/tags/operations-research/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Petrophysics</title>
-      <link>https://thiagoneye.github.io/tags/petrophysics/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/tags/petrophysics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Porous Medium</title>
-      <link>https://thiagoneye.github.io/tags/porous-medium/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/tags/porous-medium/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Process Optimization</title>
-      <link>https://thiagoneye.github.io/tags/process-optimization/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/tags/process-optimization/</guid>
       <description></description>
     </item>
     <item>
@@ -184,16 +184,51 @@
       <description></description>
     </item>
     <item>
+      <title>Hydraulic Flow Unit</title>
+      <link>https://thiagoneye.github.io/tags/hydraulic-flow-unit/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/hydraulic-flow-unit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MRST</title>
+      <link>https://thiagoneye.github.io/tags/mrst/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/mrst/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oil &amp; Gas</title>
+      <link>https://thiagoneye.github.io/tags/oil--gas/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/oil--gas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Petrophysics</title>
+      <link>https://thiagoneye.github.io/tags/petrophysics/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/petrophysics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Porous Medium</title>
+      <link>https://thiagoneye.github.io/tags/porous-medium/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/tags/porous-medium/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Reservoir Modeling</title>
       <link>https://thiagoneye.github.io/tags/reservoir-modeling/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://thiagoneye.github.io/tags/reservoir-modeling/</guid>
       <description></description>
     </item>
     <item>
       <title>Well Characterization</title>
       <link>https://thiagoneye.github.io/tags/well-characterization/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://thiagoneye.github.io/tags/well-characterization/</guid>
       <description></description>
     </item>

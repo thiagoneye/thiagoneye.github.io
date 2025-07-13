@@ -17,45 +17,52 @@
     </item>
     <item>
       <title>Application of Scientific Machine Learning Techniques for Fluid Dynamics Analysis</title>
-      <link>https://thiagoneye.github.io/research/research8/</link>
+      <link>https://thiagoneye.github.io/research/research10/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/research/research8/</guid>
-      <description>The dynamic resistance curve serves as a highly sensitive indicator for real-time assessment of weld spot quality.</description>
+      <guid>https://thiagoneye.github.io/research/research10/</guid>
+      <description>Application of machine learning techniques, informed by governing physical laws, for fluid dynamics analysis.</description>
     </item>
     <item>
       <title>Modal Analysis of Fluid Dynamics</title>
-      <link>https://thiagoneye.github.io/research/research7/</link>
+      <link>https://thiagoneye.github.io/research/research9/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/research/research7/</guid>
-      <description>.</description>
+      <guid>https://thiagoneye.github.io/research/research9/</guid>
+      <description>Application of the Dynamic Mode Decomposition (DMD) technique to identify and understand coherent structures (or modes) that dominate the spatial and temporal behavior of a fluid flow.</description>
+    </item>
+    <item>
+      <title>Statistical Process Control</title>
+      <link>https://thiagoneye.github.io/research/research8/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/research/research8/</guid>
+      <description>Application of Statistical Process Control to analyze the dimensions and quality of products in a manufacturing environment.</description>
     </item>
     <item>
       <title>Numerical Methods for Simulating Transport Phenomena</title>
-      <link>https://thiagoneye.github.io/research/research6/</link>
+      <link>https://thiagoneye.github.io/research/research7/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/research/research6/</guid>
-      <description>.</description>
+      <guid>https://thiagoneye.github.io/research/research7/</guid>
+      <description>Application of the numerical method of lines (NUMOL) to solve the classical problem of one-dimensional heat transfer in a cylinder.</description>
     </item>
     <item>
       <title>Machine Learning Application for Weld Quality Characterization</title>
-      <link>https://thiagoneye.github.io/research/research5/</link>
+      <link>https://thiagoneye.github.io/research/research6/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/research/research6/</guid>
+      <description>Study of dynamic resistance curve patterns resulting from spot weld quality levels.</description>
+    </item>
+    <item>
+      <title>Digital Transformation and Indicator Management</title>
+      <link>https://thiagoneye.github.io/research/research5/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://thiagoneye.github.io/research/research5/</guid>
-      <description>The dynamic resistance curve serves as a highly sensitive indicator for real-time assessment of weld spot quality.</description>
+      <description>Use of Microsoft Power Platform tools to digitize activities and manage manufacturing indicators (production, maintenance, engineering, people, safety, quality, etc.).</description>
     </item>
     <item>
       <title>Application of Optimization Techniques in Industrial Environments</title>
       <link>https://thiagoneye.github.io/research/research4/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://thiagoneye.github.io/research/research4/</guid>
-      <description>Operations Research enables optimal production scheduling by efficiently allocating resources and sequencing tasks to maximize productivity and minimize delays.</description>
-    </item>
-    <item>
-      <title>Numerical Modeling and Characterization of Oil Reservoirs</title>
-      <link>https://thiagoneye.github.io/research/research3/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/research/research3/</guid>
-      <description>Computational representation of the physical and geological characteristics of the reservoir to predict hydrocarbon production and optimize its exploration.</description>
+      <description>Application of the ant colony optimization algorithm for scheduling items in assembly lines.</description>
     </item>
     <item>
       <title>GAWPS: A MRST-based module for wellbore proﬁling and graphical analysis of ﬂow units</title>
@@ -70,6 +77,13 @@
       <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://thiagoneye.github.io/publications/paper2/</guid>
       <description>This paper reviews key graphical methods for petrophysical analysis aimed at identifying and classifying flow units in reservoirs.</description>
+    </item>
+    <item>
+      <title>Numerical Modeling and Characterization of Oil Reservoirs</title>
+      <link>https://thiagoneye.github.io/research/research3/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://thiagoneye.github.io/research/research3/</guid>
+      <description>Computational representation of the physical and geological characteristics of oil wells.</description>
     </item>
     <item>
       <title>Assessment of Flow Indices and Field Sectoring for Strategic Oil Well Placement and Production</title>
@@ -146,8 +160,15 @@
       <guid>https://thiagoneye.github.io/experience/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;professional&#34;&gt;Professional&lt;/h2&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;academic&#34;&gt;Academic&lt;/h2&gt;</description>
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Process Engineering Analyst&lt;/strong&gt; (Jan 2024 - Feb 2025) - &lt;a href=&#34;https://www.moura.com.br/&#34;&gt;Moura Group&lt;/a&gt; &lt;br&gt;
+Direct report to the Production Manager, responsible for quality management and improvement of the production process of automotive battery plates.
+Experience in the following processes: Cominco expansion, mills, particulate transport, mixing machines, pasting, curing greenhouses and drying.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Data Analyst&lt;/strong&gt; (May 2022 - Dec 2023) - &lt;a href=&#34;https://www.moura.com.br/&#34;&gt;Moura Group&lt;/a&gt; &lt;br&gt;
+Direct report to the management and control manager, responsible for developing digital solutions to optimize manufacturing and support areas, contributing to analysis and decision-making processes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Others</title>
@@ -155,11 +176,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://thiagoneye.github.io/others/</guid>
       <description>&lt;hr&gt;
-&lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
+&lt;h2 id=&#34;laboratories&#34;&gt;Laboratories&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://tril.ci.ufpb.br/&#34;&gt;TRIL Lab&amp;rsquo;s&lt;/a&gt;&lt;/strong&gt; proposal lies on a conceptual triad which is the reason for its name: SEIZE, SHAPE, and SOLVE. This holistic “3S” model intends to deploy a portfolio of solutions for strategic sectors of our economy and society. Our focus is computational science and engineering (CSE).&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;laboratories--people&#34;&gt;Laboratories &amp;amp; People&lt;/h2&gt;</description>
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;strong&gt;&lt;a href=&#34;https://www.sintef.no/projectweb/mrst/&#34;&gt;MATLAB Reservoir Simulation Toolbox (MRST)&lt;/a&gt;&lt;/strong&gt; is a free open-source software for reservoir modelling and simulation, developed primarily by the Applied Computational Science group in the Department of Mathematics and Cybernetics at SINTEF Digital.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
