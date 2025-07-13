@@ -3,6 +3,7 @@ title: "Flight Dynamics Analysis and Control Surface Design"
 date: 2018-01-01
 tags: ["Flight Mechanics", "Stability and Control", "Handling Qualities", "Aircraft Design", "Unmanned Aerial Vehicle"]
 summary: "Study and optimization of an aircraft's motion and stability through the design of aerodynamic control surfaces."
+showToc: true
 ---
 
 ---

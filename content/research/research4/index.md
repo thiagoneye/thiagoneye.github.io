@@ -3,6 +3,7 @@ title: "Application of Optimization Techniques in Industrial Environments"
 date: 2021-12-20
 tags: ["Operations Research", "Combinatorial Optimization", "Production Planning and Control", "Process Optimization"]
 summary: "Operations Research enables optimal production scheduling by efficiently allocating resources and sequencing tasks to maximize productivity and minimize delays."
+showToc: true
 ---
 
 ---

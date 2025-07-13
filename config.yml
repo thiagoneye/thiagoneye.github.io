@@ -29,7 +29,7 @@ menu:
       weight: 8
 
 params:
-  DateFormat: "January 2006"
+  DateFormat: "2006"
   defaultTheme: light
   hideFooter: true
   profileMode:

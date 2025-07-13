@@ -3,6 +3,7 @@ title: "Machine Learning Application for Weld Quality Characterization"
 date: 2023-11-01
 tags: ["Machine Learning", "Deep Learning", "Pattern Recognition"]
 summary: "The dynamic resistance curve serves as a highly sensitive indicator for real-time assessment of weld spot quality."
+showToc: true
 ---
 
 ---
