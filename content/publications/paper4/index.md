@@ -18,4 +18,3 @@ This work studies the application of Dynamic Mode Decomposition (DMD) to analyze
 
 [ERAD-NE 2025](https://erad-ne.imd.ufrn.br/) aims to encourage the study and research in high-performance computing, computer architecture, distributed systems, parallel processing, and their applications in fields such as biology, engineering, physics, mathematics, computer science, medicine, finance, chemistry, among others.
 
-

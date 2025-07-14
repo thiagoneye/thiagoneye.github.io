@@ -72,4 +72,3 @@ These tools, both mathematical and computational, are essential for engineers an
 
 + [Final Course Monograph](monograph.pdf)
 
-

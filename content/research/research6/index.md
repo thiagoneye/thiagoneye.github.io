@@ -40,4 +40,3 @@ Manual interpretation of dynamic resistance curves can be complex and time-consu
 
 By analyzing patterns and characteristics in the curves, the Machine Learning model can learn to distinguish between a good quality weld and a defective weld. Once trained, the system can automatically classify the quality of new welds in real time, providing instant feedback to the operator. This allows for quick identification of problems, proactive correction of process parameters, and reduction of scrap, optimizing production line efficiency and ensuring that only high-quality products reach the market.
 
-

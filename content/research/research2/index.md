@@ -62,3 +62,4 @@ These qualities are subjective to some extent, as they depend on pilot experienc
 * Is safe in the event of disturbances or failures.
 
 Flying qualities are directly influenced by the design of the control surfaces and the aircraft's stability (static and dynamic). For example, an aircraft with good dynamic stability will quickly dampen disturbances, resulting in better handling qualities and less need for constant pilot intervention. The ultimate goal of aircraft design is to achieve an ideal balance between these characteristics, ensuring that it can effectively and safely fulfill its mission.
+

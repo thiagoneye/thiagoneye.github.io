@@ -39,4 +39,3 @@ doi        = {10.26678/ABCM.CREEM2020.CRE2020-0183}
 
 The National Congress of Mechanical Engineering Students (CREEM) is an event organized by the [Brazilian Society of Mechanical Engineering and Sciences (ABCM)](https://abcm.org.br/). Established in 1998, this annual event encompasses all fields within mechanical engineering and sciences.
 
-

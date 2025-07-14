@@ -41,3 +41,4 @@ title: "Others"
 * **[Data Viz Project](https://datavizproject.com/)**, the most comprehensive archive of data visualizations.
 
 * Get **[HTML Color Codes](https://htmlcolorcodes.com/)**, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names.
+

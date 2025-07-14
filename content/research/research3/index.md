@@ -88,5 +88,3 @@ This model is computationally efficient and suitable for most light oil and dry 
 
 The [MATLAB Reservoir Simulation Toolbox (MRST)](https://www.sintef.no/projectweb/mrst/) is a free open-source software for reservoir modelling and simulation, developed primarily by the Applied Computational Science group in the Department of Mathematics and Cybernetics at SINTEF Digital. 
 
-
-

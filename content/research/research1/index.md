@@ -19,6 +19,3 @@ summary: "Creation of three-dimensional representations and detailed technical d
 
 + [Technical Drawings](technical_drawing.pdf)
 
-
-
-

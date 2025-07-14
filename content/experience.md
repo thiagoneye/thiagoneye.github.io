@@ -36,6 +36,3 @@ Scientific Initiation Project carried out at LaMEP (Laboratory of Modeling in Pe
 * **Team Member and Leader** (Jun 2016 - Dec 2018) - [Aerojampa UFPB](https://aerojampa.wixsite.com/aerojampaufpb/) \
 The Aerojampa UFPB Extension Project is composed of undergraduate students who aim to develop radio-controlled aircraft prototypes to participate in the [SAE Brazil AeroDesign competition](https://saebrasil.org.br/programas-estudantis/aero-design-sae-brasil/).
 
-
-
-

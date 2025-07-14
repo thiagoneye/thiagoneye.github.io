@@ -36,7 +36,3 @@ Digital Transformation represents the integration of digital technologies into a
 
 Low-code tools, such as the Microsoft Power Platform (which includes Power Apps, Power Automate, Power BI, and Power Virtual Agents), are a key driver of digital transformation. They enable users with little to no programming knowledge to create custom applications, automate workflows, analyze data, and develop chatbots. This dramatically accelerates the development of internal solutions, allowing operational and management teams to build tailored tools to optimize processes, manage indicators, and support continuous improvement, without having to rely solely on specialized developers. It's the democratization of value creation, connecting all the pieces of this Industry 4.0 puzzle.
 
-
-
-
-

@@ -53,7 +53,3 @@ By implementing SPC, companies can:
 
 In summary, Process Engineering shapes the Industrial Environment with efficient processes. Quality Assurance establishes the standards and framework for excellence. Lean Manufacturing removes what doesn't add value, while Lean Six Sigma deepens this pursuit, using data and statistics to eliminate variations and achieve near-perfect quality. And Statistical Process Control is the constant sentinel, ensuring everything operates within expected limits, promoting stability and continuous improvement on all fronts.
 
-
-
-
-

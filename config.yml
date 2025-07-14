@@ -30,6 +30,7 @@ menu:
 
 params:
   DateFormat: "2006"
+  ShowCodeCopyButtons: true
   defaultTheme: dark
   disableAnchoredHeadings: true
   ShowPostNavLinks: true
