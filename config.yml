@@ -58,3 +58,7 @@ params:
       url: https://www.researchgate.net/profile/Thiago_Rodrigues16
     - name: ORCID
       url: https://orcid.org/0000-0002-0100-608X
+
+markup:
+    highlight:
+        style: github-dark # modus-vivendi # hrdark # hr_high_contrast # native
