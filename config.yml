@@ -36,6 +36,7 @@ params:
   ShowPostNavLinks: true
   hideFooter: true
   math: true
+  
   profileMode:
     enabled: true
     title: "Thiago Rodrigues" # optional default will be site title
