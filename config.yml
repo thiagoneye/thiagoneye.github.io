@@ -29,9 +29,10 @@ menu:
       weight: 8
 
 params:
-  DateFormat: "2006"
+  DateFormat: "2001"
   defaultTheme: light
   hideFooter: true
+  math: true
   profileMode:
     enabled: true
     title: "Thiago Rodrigues" # optional default will be site title
