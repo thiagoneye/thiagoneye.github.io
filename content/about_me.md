@@ -1,7 +1,5 @@
 ---
 title: "About Me"
-aliases:
-    - /about_me.html
 ---
 
 ---

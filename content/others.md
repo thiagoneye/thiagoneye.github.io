@@ -1,7 +1,5 @@
 ---
 title: "Others"
-aliases:
-    - /others.html
 ---
 
 ---

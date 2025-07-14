@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hydraulic Flow Unit on Home</title>
-    <link>https://thiagoneye.github.io/tags/hydraulic-flow-unit/</link>
+    <link>http://localhost:1313/tags/hydraulic-flow-unit/</link>
     <description>Recent content in Hydraulic Flow Unit on Home</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thiagoneye.github.io/tags/hydraulic-flow-unit/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hydraulic-flow-unit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GAWPS: A MRST-based module for wellbore proﬁling and graphical analysis of ﬂow units</title>
-      <link>https://thiagoneye.github.io/publications/paper3/</link>
+      <link>http://localhost:1313/publications/paper3/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/publications/paper3/</guid>
+      <guid>http://localhost:1313/publications/paper3/</guid>
       <description>GAWPS is a collection of computational routines intended to carry out wellbore profiling for flow unit detection in reservoir models. This acronym stands for Graphical Analysis for Well Placement Strategy.</description>
     </item>
     <item>
       <title>Graphical Methods for Delineating Flow Units in Oil Reservoirs: Concepts and Applications</title>
-      <link>https://thiagoneye.github.io/publications/paper2/</link>
+      <link>http://localhost:1313/publications/paper2/</link>
       <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/publications/paper2/</guid>
+      <guid>http://localhost:1313/publications/paper2/</guid>
       <description>This paper (preprint) reviews key graphical methods for petrophysical analysis aimed at identifying and classifying flow units in reservoirs.</description>
     </item>
     <item>
       <title>Numerical Modeling and Characterization of Oil Reservoirs</title>
-      <link>https://thiagoneye.github.io/research/research3/</link>
+      <link>http://localhost:1313/research/research3/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/research/research3/</guid>
+      <guid>http://localhost:1313/research/research3/</guid>
       <description>Computational representation of the physical and geological characteristics of oil wells.</description>
     </item>
   </channel>

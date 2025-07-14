@@ -1,7 +1,5 @@
 ---
 title: "Experience"
-aliases:
-    - /experience.html
 ---
 
 ---
