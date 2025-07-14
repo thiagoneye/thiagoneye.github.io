@@ -61,4 +61,4 @@ params:
 
 markup:
     highlight:
-        style: github-dark # modus-vivendi # hrdark # hr_high_contrast # native
+        style: hrdark # github-dark # modus-vivendi # hrdark # hr_high_contrast # native
