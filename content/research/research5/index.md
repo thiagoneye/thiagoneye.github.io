@@ -10,7 +10,7 @@ showToc: true
 
 ## Industrial Management: The Heart of Efficiency
 
-Industrial Management is the backbone of any manufacturing operation, aiming to optimize all processes, from raw material acquisition to final product delivery. It encompasses the planning, organizing, directing, and controlling of resources (human, material, financial, and technological) to achieve production objectives efficiently and economically. Effective industrial management seeks not only to produce more but to produce better, with less waste and higher quality, which leads us directly to the next point.
+Industrial Management is essential for any manufacturing operation, aiming to optimize all processes, from the acquisition of raw materials to the delivery of the final product. It encompasses the planning, organizing, directing, and controlling of resources (human, material, financial, and technological) to achieve production objectives efficiently and economically. Effective industrial management seeks not only to produce more but to produce better, with less waste and higher quality, which leads us directly to the next point.
 
 ---
 
@@ -34,5 +34,5 @@ Digital Transformation represents the integration of digital technologies into a
 
 ## Low-Code Tools (Microsoft Power Platform): Accelerating Innovation
 
-Low-code tools, such as the Microsoft Power Platform (which includes Power Apps, Power Automate, Power BI, and Power Virtual Agents), are a key driver of digital transformation. They enable users with little to no programming knowledge to create custom applications, automate workflows, analyze data, and develop chatbots. This dramatically accelerates the development of internal solutions, allowing operational and management teams to build tailored tools to optimize processes, manage indicators, and support continuous improvement, without having to rely solely on specialized developers. It's the democratization of value creation, connecting all the pieces of this Industry 4.0 puzzle.
+Low-code tools, such as the Microsoft Power Platform (which includes Power Apps, Power Automate, and Power BI), are a key driver of digital transformation. They enable users with little to no programming knowledge to create custom applications, automate workflows, and analyze data. This dramatically accelerates the development of internal solutions, allowing operational and management teams to build tailored tools to optimize processes, manage indicators, and support continuous improvement, without having to rely solely on specialized developers. It's the democratization of value creation, connecting all the pieces of this Industry 4.0 puzzle.
 

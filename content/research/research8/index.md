@@ -16,7 +16,7 @@ The industrial environment is the stage where the magic of production happens. I
 
 ## Process Engineering: The Architecture of Efficient Production
 
-Process Engineering is the discipline that acts as the architect of the industrial environment. It is dedicated to designing, analyzing, optimizing, and implementing production processes. Its focus is to ensure that every stage of manufacturing is as efficient, safe, and economical as possible, from initial planning to final delivery. This includes technology selection, line sizing, automation, and defining workflows. Process engineering creates the "how" of production, but to ensure this "how" results in high-standard products, we need constant vigilance.
+Process Engineering is the area that acts as the architect of the industrial environment. It is dedicated to designing, analyzing, optimizing, and implementing production processes. Its focus is to ensure that every stage of manufacturing is as efficient, safe, and economical as possible, from initial planning to final delivery. This includes technology selection, line sizing, automation, and defining workflows. Process engineering creates the "how" of production, but to ensure this "how" results in high-standard products, we need constant vigilance.
 
 ---
 

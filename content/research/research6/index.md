@@ -10,7 +10,7 @@ showToc: true
 
 ## Industrial Processes and Process Engineering
 
-Industrial Processes are the set of interconnected steps that transform raw materials into finished products. For these processes to be efficient and effective, Process Engineering comes into play. This discipline focuses on the design, optimization, and control of processes, aiming to increase productivity, reduce costs, and improve quality. It acts from the selection of equipment and raw materials to the definition of operational parameters and continuous production monitoring.
+Industrial Processes are the set of interconnected steps that transform raw materials into finished products. For these processes to be efficient and effective, Process Engineering comes into play. This area focuses on the design, optimization, and control of processes, aiming to increase productivity, reduce costs, and improve quality. It acts from the selection of equipment and raw materials to the definition of operational parameters and continuous production monitoring.
 
 ---
 

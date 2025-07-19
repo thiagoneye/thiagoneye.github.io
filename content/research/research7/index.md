@@ -12,7 +12,7 @@ showToc: true
 
 ## Differential Equations in Physics: The Language of the Universe
 
-Differential Equations (DEs) are the backbone of modern physics. They describe how quantities change and relate to each other, allowing us to model and predict the behavior of physical systems over time or space. From the motion of a planet to the propagation of heat in a material, DEs capture the dynamic essence of natural phenomena. Without them, our understanding of the universe would be drastically limited.
+Differential Equations (DEs) are the foundation of modern physics. They describe how quantities change and relate to each other, allowing us to model and predict the behavior of physical systems over time or space. From the motion of a planet to the propagation of heat in a material, DEs capture the dynamic essence of natural phenomena. Without them, our understanding of the universe would be drastically limited.
 
 ---
 
@@ -55,14 +55,6 @@ Numerical Methods are computational techniques that provide approximate solution
 * **Finite Element Method (FEM):** Divides the problem domain into small "elements" and approximates the solution within each element. Extremely versatile for complex geometries and varied boundary conditions.
 * **Finite Volume Method (FVM):** Based on the conservation of properties within discrete control volumes. Popular in computational fluid dynamics (CFD).
 * **Method of Lines (MOL):** A technique that transforms a partial differential equation (PDE) into a system of ordinary differential equations (ODEs) by discretizing one or more spatial variables while keeping other variables (usually time) continuous. The resulting ODEs are then solved using numerical methods for ODEs, such as Runge-Kutta. It is particularly useful for propagation problems and for parabolic and hyperbolic PDEs.
-
-### Hybrid Methods: Combining the Best of Both Worlds
-
-Hybrid Methods combine elements from different approaches (analytical and/or numerical) to solve complex problems, leveraging the strengths of each technique.
-
-* **Analytical-Numerical Methods:** Parts of a problem are solved analytically, and the more complex parts (or those with irregular geometry) are handled numerically. For example, finding an analytical solution for one part of an equation and using a numerical method for the remainder.
-* **Optimization Combined with Numerical Simulation:** Utilizes optimization algorithms (which can have analytical or heuristic bases) to adjust parameters of complex numerical models, seeking the best solution for a problem.
-* **Hybrid Network Modeling:** Combines simplified analytical models for certain components of a system with detailed numerical simulations for other, more complex components.
 
 These tools, both mathematical and computational, are essential for engineers and scientists to model, understand, and design complex systems across various disciplines.
 

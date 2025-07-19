@@ -47,8 +47,6 @@ Petrophysics is the study of the physical properties of rocks that influence flu
 
 ### Hydraulic Flow Units
 
-Hydraulic flow units are an essential concept in petrophysics and modeling, especially when dealing with fluid flow in porous media. One of the most important is the flow unit or hydraulic flow unit.
-
 A hydraulic flow unit is a continuous and mappable volume of reservoir rock that shares consistent geological and petrophysical characteristics, sufficiently so to control fluid flow in a similar manner. This means that within a flow unit, porosity and permeability (and their relationships with fluid saturation) are relatively homogeneous, simplifying flow modeling. Identifying and mapping these units is crucial for simplifying the reservoir model and ensuring that petrophysical properties are correctly assigned within the numerical grid.
 
 ---
