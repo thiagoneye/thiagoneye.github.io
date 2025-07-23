@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Scientific Computing on Home</title>
-    <link>https://thiagoneye.github.io/tags/scientific-computing/</link>
+    <link>http://localhost:1313/tags/scientific-computing/</link>
     <description>Recent content in Scientific Computing on Home</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thiagoneye.github.io/tags/scientific-computing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/scientific-computing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computational Science and Engineering (CSE) for carbon capture, storage, and utilization (CCUS)</title>
+      <link>http://localhost:1313/research/research11/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/research11/</guid>
+      <description>Application of data science and scientific computing techniques for the analysis of CCUS technologies.</description>
+    </item>
     <item>
       <title>Application of Scientific Machine Learning Techniques for Fluid Dynamics Analysis</title>
-      <link>https://thiagoneye.github.io/research/research10/</link>
+      <link>http://localhost:1313/research/research10/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/research/research10/</guid>
+      <guid>http://localhost:1313/research/research10/</guid>
       <description>Application of machine learning techniques, informed by governing physical laws, for fluid dynamics analysis.</description>
     </item>
     <item>
       <title>Modal Analysis of Fluid Dynamics</title>
-      <link>https://thiagoneye.github.io/research/research9/</link>
+      <link>http://localhost:1313/research/research9/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/research/research9/</guid>
+      <guid>http://localhost:1313/research/research9/</guid>
       <description>Application of the Dynamic Mode Decomposition (DMD) technique to identify and understand coherent structures (or modes) that dominate the spatial and temporal behavior of a fluid flow.</description>
     </item>
     <item>
       <title>Numerical Methods for Simulating Transport Phenomena</title>
-      <link>https://thiagoneye.github.io/research/research7/</link>
+      <link>http://localhost:1313/research/research7/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/research/research7/</guid>
+      <guid>http://localhost:1313/research/research7/</guid>
       <description>Application of the numerical method of lines (NUMOL) to solve the classical problem of one-dimensional heat transfer in a cylinder.</description>
     </item>
   </channel>
