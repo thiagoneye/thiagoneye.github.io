@@ -1,6 +1,6 @@
 # thiagoneye.github.io
 
-This repository hosts the files for my personal website, **thiagoneye.github.io**, built with **Hugo** and using the **PaperMod** theme.
+This repository hosts the files for my personal website, *thiagoneye.github.io*, built with **Hugo** and using the **PaperMod** theme.
 
 ## About
 
