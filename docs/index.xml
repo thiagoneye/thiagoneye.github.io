@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home</title>
-    <link>http://localhost:1313/</link>
+    <link>https://thiagoneye.github.io/</link>
     <description>Recent content on Home</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thiagoneye.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computational Science and Engineering (CSE) for carbon capture, storage, and utilization (CCUS)</title>
-      <link>http://localhost:1313/research/research11/</link>
+      <link>https://thiagoneye.github.io/research/research11/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/research11/</guid>
+      <guid>https://thiagoneye.github.io/research/research11/</guid>
       <description>Application of data science and scientific computing techniques for the analysis of CCUS technologies.</description>
     </item>
     <item>
       <title>Dynamic Mode Decomposition of Large-Scale Aerodynamic Simulations of Base-Bleed Projectiles</title>
-      <link>http://localhost:1313/publications/paper4/</link>
+      <link>https://thiagoneye.github.io/publications/paper4/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/paper4/</guid>
+      <guid>https://thiagoneye.github.io/publications/paper4/</guid>
       <description>This study applies Dynamic Mode Decomposition to analyze and reduce CFD data of base-bleed military projectiles, identifying dominant dynamic modes of the velocity field from 2D axisymmetric simulations.</description>
     </item>
     <item>
       <title>Application of Scientific Machine Learning Techniques for Fluid Dynamics Analysis</title>
-      <link>http://localhost:1313/research/research10/</link>
+      <link>https://thiagoneye.github.io/research/research10/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/research10/</guid>
+      <guid>https://thiagoneye.github.io/research/research10/</guid>
       <description>Application of machine learning techniques, informed by governing physical laws, for fluid dynamics analysis.</description>
     </item>
     <item>
       <title>Modal Analysis of Fluid Dynamics</title>
-      <link>http://localhost:1313/research/research9/</link>
+      <link>https://thiagoneye.github.io/research/research9/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/research9/</guid>
+      <guid>https://thiagoneye.github.io/research/research9/</guid>
       <description>Application of the Dynamic Mode Decomposition (DMD) technique to identify and understand coherent structures (or modes) that dominate the spatial and temporal behavior of a fluid flow.</description>
     </item>
     <item>
       <title>Statistical Process Control</title>
-      <link>http://localhost:1313/research/research8/</link>
+      <link>https://thiagoneye.github.io/research/research8/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/research8/</guid>
+      <guid>https://thiagoneye.github.io/research/research8/</guid>
       <description>Application of Statistical Process Control to analyze the dimensions and quality of products in a manufacturing environment.</description>
     </item>
     <item>
       <title>Numerical Methods for Simulating Transport Phenomena</title>
-      <link>http://localhost:1313/research/research7/</link>
+      <link>https://thiagoneye.github.io/research/research7/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/research7/</guid>
+      <guid>https://thiagoneye.github.io/research/research7/</guid>
       <description>Application of the numerical method of lines (NUMOL) to solve the classical problem of one-dimensional heat transfer in a cylinder.</description>
     </item>
     <item>
       <title>Machine Learning Application for Weld Quality Characterization</title>
-      <link>http://localhost:1313/research/research6/</link>
+      <link>https://thiagoneye.github.io/research/research6/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/research6/</guid>
+      <guid>https://thiagoneye.github.io/research/research6/</guid>
       <description>Study of dynamic resistance curve patterns resulting from spot weld quality levels.</description>
     </item>
     <item>
       <title>Digital Transformation and Indicator Management</title>
-      <link>http://localhost:1313/research/research5/</link>
+      <link>https://thiagoneye.github.io/research/research5/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/research5/</guid>
+      <guid>https://thiagoneye.github.io/research/research5/</guid>
       <description>Use of Microsoft Power Platform tools to digitize activities and manage manufacturing indicators (production, maintenance, engineering, people, safety, quality, etc.).</description>
     </item>
     <item>
       <title>Application of Optimization Techniques in Industrial Environments</title>
-      <link>http://localhost:1313/research/research4/</link>
+      <link>https://thiagoneye.github.io/research/research4/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/research4/</guid>
+      <guid>https://thiagoneye.github.io/research/research4/</guid>
       <description>Application of the ant colony optimization algorithm for scheduling items in assembly lines.</description>
     </item>
     <item>
       <title>GAWPS: A MRST-based module for wellbore proﬁling and graphical analysis of ﬂow units</title>
-      <link>http://localhost:1313/publications/paper3/</link>
+      <link>https://thiagoneye.github.io/publications/paper3/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/paper3/</guid>
+      <guid>https://thiagoneye.github.io/publications/paper3/</guid>
       <description>GAWPS is a collection of computational routines intended to carry out wellbore profiling for flow unit detection in reservoir models. This acronym stands for Graphical Analysis for Well Placement Strategy.</description>
     </item>
     <item>
       <title>Graphical Methods for Delineating Flow Units in Oil Reservoirs: Concepts and Applications</title>
-      <link>http://localhost:1313/publications/paper2/</link>
+      <link>https://thiagoneye.github.io/publications/paper2/</link>
       <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/paper2/</guid>
+      <guid>https://thiagoneye.github.io/publications/paper2/</guid>
       <description>This paper (preprint) reviews key graphical methods for petrophysical analysis aimed at identifying and classifying flow units in reservoirs.</description>
     </item>
     <item>
       <title>Numerical Modeling and Characterization of Oil Reservoirs</title>
-      <link>http://localhost:1313/research/research3/</link>
+      <link>https://thiagoneye.github.io/research/research3/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/research3/</guid>
+      <guid>https://thiagoneye.github.io/research/research3/</guid>
       <description>Computational representation of the physical and geological characteristics of oil wells.</description>
     </item>
     <item>
       <title>Assessment of Flow Indices and Field Sectoring for Strategic Oil Well Placement and Production</title>
-      <link>http://localhost:1313/publications/paper1/</link>
+      <link>https://thiagoneye.github.io/publications/paper1/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/paper1/</guid>
+      <guid>https://thiagoneye.github.io/publications/paper1/</guid>
       <description>This work investigates optimal well placement in a 3D heterogeneous reservoir by comparing different location strategies based on flow zone indicators (FZI and FZI*).</description>
     </item>
     <item>
       <title>Flight Dynamics Analysis and Control Surface Design</title>
-      <link>http://localhost:1313/research/research2/</link>
+      <link>https://thiagoneye.github.io/research/research2/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/research2/</guid>
+      <guid>https://thiagoneye.github.io/research/research2/</guid>
       <description>Study and optimization of an aircraft&amp;rsquo;s motion and stability through the design of aerodynamic control surfaces.</description>
     </item>
     <item>
       <title>3D Modeling and Technical Drawings of Mechanical Systems</title>
-      <link>http://localhost:1313/research/research1/</link>
+      <link>https://thiagoneye.github.io/research/research1/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/research1/</guid>
+      <guid>https://thiagoneye.github.io/research/research1/</guid>
       <description>Creation of three-dimensional representations and detailed technical drawings of mechanical systems, aiming to design, analyze, and manufacture components with precision.</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about_me/</link>
+      <link>https://thiagoneye.github.io/about_me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about_me/</guid>
+      <guid>https://thiagoneye.github.io/about_me/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
 &lt;ul&gt;
@@ -139,9 +139,9 @@
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://thiagoneye.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://thiagoneye.github.io/contact/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;e-mail&#34;&gt;E-mail&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;mailto:thiagoneye@outlook.com&#34;&gt;thiagoneye@outlook.com&lt;/a&gt;&lt;/p&gt;
@@ -159,9 +159,9 @@
     </item>
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>https://thiagoneye.github.io/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>https://thiagoneye.github.io/experience/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;professional&#34;&gt;Professional&lt;/h2&gt;
 &lt;h3 id=&#34;moura-group&#34;&gt;&lt;a href=&#34;https://www.moura.com.br/&#34;&gt;Moura Group&lt;/a&gt;&lt;/h3&gt;
@@ -169,9 +169,9 @@
     </item>
     <item>
       <title>Others</title>
-      <link>http://localhost:1313/others/</link>
+      <link>https://thiagoneye.github.io/others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/others/</guid>
+      <guid>https://thiagoneye.github.io/others/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;laboratories&#34;&gt;Laboratories&lt;/h2&gt;
 &lt;ul&gt;
