@@ -16,13 +16,13 @@ title: "Others"
 
 * The **[SciML](https://sciml.ai/)** organization is a collection of tools for solving equations and modeling systems developed in the Julia programming language with bindings to other languages such as R and Python.
 
-* **[OpenFOAM](https://www.openfoam.com/)** is the free, open source CFD software developed. It has a large user base across most areas of engineering and science, from both commercial and academic organisations. OpenFOAM has an extensive range of features to solve anything from complex fluid flows involving chemical reactions, turbulence and heat transfer, to acoustics, solid mechanics and electromagnetics.
+* The **[OpenFOAM](https://www.openfoam.com/)** is the free, open source CFD software developed. It has a large user base across most areas of engineering and science, from both commercial and academic organisations. OpenFOAM has an extensive range of features to solve anything from complex fluid flows involving chemical reactions, turbulence and heat transfer, to acoustics, solid mechanics and electromagnetics.
 
-* **[ParaView](https://www.paraview.org/)** is an award-winning open source visualization application that users have trusted for more than 20 years.
+* The **[ParaView](https://www.paraview.org/)** is an award-winning open source visualization application that users have trusted for more than 20 years.
 
-* **[FEniCS](https://fenicsproject.org/)** is a popular open-source computing platform for solving partial differential equations (PDEs) with the finite element method (FEM). FEniCS enables users to quickly translate scientific models into efficient finite element code.
+* The **[FEniCS](https://fenicsproject.org/)** is a popular open-source computing platform for solving partial differential equations (PDEs) with the finite element method (FEM). FEniCS enables users to quickly translate scientific models into efficient finite element code.
 
-* **[Gmsh](https://gmsh.info/)** is a three-dimensional finite element mesh generator with built-in pre- and post-processing facilities.
+* The **[Gmsh](https://gmsh.info/)** is a three-dimensional finite element mesh generator with built-in pre- and post-processing facilities.
 
 ---
 
@@ -41,4 +41,6 @@ title: "Others"
 * **[Data Viz Project](https://datavizproject.com/)**, the most comprehensive archive of data visualizations.
 
 * Get **[HTML Color Codes](https://htmlcolorcodes.com/)**, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names.
+
+* The **[CSS4 Color Module](https://learningwebdesign.com/colornames.html)** includes this set of colornames, 140 of which were originally introduced by the X Windows System.
 
