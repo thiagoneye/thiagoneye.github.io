@@ -33,7 +33,7 @@ title: "About Me"
 * Operating System: `windows` `linux` 
 * DataViz: `microsoft power bi` 
 * CAD: `autodesk inventor` `solidworks` `autodesk fusion`
-* Others: `microsoft office` `microsoft powerapps` `microsoft power automate` `latex`
+* Others: `microsoft office` `microsoft power apps` `microsoft power automate` `latex`
 
 ---
 
