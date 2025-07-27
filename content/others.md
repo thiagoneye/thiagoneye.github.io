@@ -12,6 +12,8 @@ title: "Others"
 
 ## Tools
 
+* With the Data Intelligence Platform, **[Databricks](https://www.databricks.com/)** democratizes insights to everyone in an organization.
+
 * The **[MATLAB Reservoir Simulation Toolbox (MRST)](https://www.sintef.no/projectweb/mrst/)** is a free open-source software for reservoir modelling and simulation, developed primarily by the Applied Computational Science group in the Department of Mathematics and Cybernetics at SINTEF Digital.
 
 * The **[SciML](https://sciml.ai/)** organization is a collection of tools for solving equations and modeling systems developed in the Julia programming language with bindings to other languages such as R and Python.
