@@ -26,7 +26,7 @@ title: "About Me"
 * Languages: `python` `matlab` `shell`
 * Software Engineering: `object-oriented programming` `solid` `design patterns`
 * Quality Assurence: `unittest`
-* Data Science: `artificial intelligence` `machine learning` `statistics` `data-mining`
+* Data Science: `artificial intelligence` `machine learning` `statistics` `data mining`
 * Data Engineering: `apache hop` `apache beam` `databricks` `pyspark` 
 * Database: `sql` `mysql` `sql server` `postgresql` `sqlite` `nosql` `mongodb`
 * CI/CD: `git` `github`
