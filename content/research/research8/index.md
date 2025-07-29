@@ -6,6 +6,8 @@ summary: "Application of Statistical Process Control to analyze the dimensions a
 showToc: true
 ---
 
+![](ProcessControlChart.png)
+
 ---
 
 ## The Industrial Environment: The Stage of Transformation
