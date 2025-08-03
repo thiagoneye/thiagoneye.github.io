@@ -26,6 +26,8 @@ title: "Others"
 
 * The **[Gmsh](https://gmsh.info/)** is a three-dimensional finite element mesh generator with built-in pre- and post-processing facilities.
 
+* **[Inkscape](https://inkscape.org/)** is a Free and open source vector graphics editor for GNU/Linux, Windows and macOS. It offers a rich set of features and is widely used for both artistic and technical illustrations such as cartoons, clip art, logos, typography, diagramming and flowcharting.
+
 ---
 
 ## Useful Links
