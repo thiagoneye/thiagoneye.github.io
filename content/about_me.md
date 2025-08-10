@@ -26,12 +26,11 @@ title: "About Me"
 Fields of Expertise and Research Areas
 
 * **Transport Phenomena**
-    * Heat Transfer
     * Fluid Mechanics
+    * Heat Transfer
     * Computational Fluid Dynamics (CFD)
 * **Scientific Computing**
     * Computer Programming
-    * Symbolic Computation
     * Mathematical Modeling
 * **Numerical Methods**
     * Finite Volume Methods (FVM)
