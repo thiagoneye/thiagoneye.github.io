@@ -6,6 +6,8 @@ summary: "Use of Microsoft Power Platform tools to digitize activities and manag
 showToc: true
 ---
 
+![](PowerPlatform.png)
+
 ---
 
 ## Industrial Management: The Heart of Efficiency
