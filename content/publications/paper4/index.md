@@ -14,7 +14,33 @@ This work studies the application of Dynamic Mode Decomposition (DMD) to analyze
 
 ---
 
+## Keywords
+
+`Dynamic Mode Decomposition` `Aerodynamic Simulation` `Machine Learning` `Dimensionality Reduction` `Base Bleed Projectile`
+
+---
+
+## Citation
+
+RODRIGUES, Thiago N. E.; LUCENA, Rachel M.; LEMOS, Maurício F.; MANGIAVACCHI, Norberto; OLIVEIRA, Gustavo P.. Decomposição em Modos Dinâmicos de Simulações Aerodinâmicas em Larga Escala de Projéteis Base-Bleed. In: ESCOLA REGIONAL DE ALTO DESEMPENHO DA REGIÃO NORDESTE (ERAD-NE), 6. , 2025, Natal/RN. Porto Alegre: Sociedade Brasileira de Computação, 2025. p. 39-40.
+
+```BibTeX
+@inproceedings{Rodrigues2025,
+ author = {Thiago Rodrigues and Rachel Lucena and Maurício Lemos and Norberto Mangiavacchi and Gustavo Oliveira},
+ title = { Decomposição em Modos Dinâmicos de Simulações Aerodinâmicas em Larga Escala de Projéteis Base-Bleed},
+ booktitle = {Anais da VI Escola Regional de Alto Desempenho da Região Nordeste},
+ location = {Natal/RN},
+ year = {2025},
+ pages = {39--40},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/erad-ne.2025.11745},
+ url = {https://sol.sbc.org.br/index.php/erad-ne/article/view/36399}
+}
+```
+
+---
+
 ## Related Material
 
 [ERAD-NE 2025](https://erad-ne.imd.ufrn.br/) aims to encourage the study and research in high-performance computing, computer architecture, distributed systems, parallel processing, and their applications in fields such as biology, engineering, physics, mathematics, computer science, medicine, finance, chemistry, among others.
-
