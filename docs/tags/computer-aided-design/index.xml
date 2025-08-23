@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer-Aided Design on Home</title>
-    <link>https://thiagoneye.github.io/tags/computer-aided-design/</link>
+    <link>http://localhost:1313/tags/computer-aided-design/</link>
     <description>Recent content in Computer-Aided Design on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thiagoneye.github.io/tags/computer-aided-design/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/computer-aided-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D Modeling and Technical Drawings of Mechanical Systems</title>
-      <link>https://thiagoneye.github.io/research/research1/</link>
+      <link>http://localhost:1313/research/research1/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/research/research1/</guid>
+      <guid>http://localhost:1313/research/research1/</guid>
       <description>Creation of three-dimensional representations and detailed technical drawings of mechanical systems, aiming to design, analyze, and manufacture components with precision.</description>
     </item>
   </channel>

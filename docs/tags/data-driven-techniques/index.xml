@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data-Driven Techniques on Home</title>
-    <link>https://thiagoneye.github.io/tags/data-driven-techniques/</link>
+    <link>http://localhost:1313/tags/data-driven-techniques/</link>
     <description>Recent content in Data-Driven Techniques on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thiagoneye.github.io/tags/data-driven-techniques/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/data-driven-techniques/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dynamic Mode Decomposition of Large-Scale Aerodynamic Simulations of Base-Bleed Projectiles</title>
-      <link>https://thiagoneye.github.io/publications/paper4/</link>
+      <link>http://localhost:1313/publications/paper4/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://thiagoneye.github.io/publications/paper4/</guid>
+      <guid>http://localhost:1313/publications/paper4/</guid>
       <description>This study applies Dynamic Mode Decomposition to analyze and reduce CFD data of base-bleed military projectiles, identifying dominant dynamic modes of the velocity field from 2D axisymmetric simulations.</description>
     </item>
   </channel>
