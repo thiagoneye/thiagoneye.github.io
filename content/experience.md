@@ -8,7 +8,7 @@ title: "Experience"
 
 ### [Moura Group](https://www.moura.com.br/)
 
-It is the market leader in South America. Since 1957, in the city of Belo Jardim, Pernambuco, it has fulfilled the dream of visionary entrepreneurs Edson Mororó Moura and his wife, Conceição Moura. Initially focused on the automotive sector, the company has expanded its operations to other segments, now producing batteries and energy storage systems for a wide range of applications, such as motorcycles, boats, forklifts, uninterruptible power supplies (UPS), subways, trains, telephone stations, storage systems, among others.
+It is the market leader in lead-acid batteries in South America. Since 1957, in the city of Belo Jardim, Pernambuco, it has fulfilled the dream of visionary entrepreneurs Edson Mororó Moura and his wife, Conceição Moura. Initially focused on the automotive sector, the company has expanded its operations to other segments, now producing batteries and energy storage systems for a wide range of applications, such as motorcycles, boats, forklifts, uninterruptible power supplies (UPS), subways, trains, telephone stations, storage systems, among others.
 
 * **Process Engineering Analyst** (Jan 2024 - Feb 2025) \
 Direct report to the Production Manager, responsible for quality management and improvement of the production process of automotive battery plates.

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heat Transfer on Home</title>
+    <link>https://thiagoneye.github.io/tags/heat-transfer/</link>
+    <description>Recent content in Heat Transfer on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>thiagoneye@outlook.com (Thiago Rodrigues)</managingEditor>
+    <webMaster>thiagoneye@outlook.com (Thiago Rodrigues)</webMaster>
+    
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://thiagoneye.github.io/tags/heat-transfer/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Modal Analysis of Fluid Dynamics</title>
+      <link>https://thiagoneye.github.io/research/research3/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <author>thiagoneye@outlook.com (Thiago Rodrigues)</author>
+      <guid>https://thiagoneye.github.io/research/research3/</guid>
+      <description>Application of the Dynamic Mode Decomposition (DMD) technique to identify and understand coherent structures (or modes) that dominate the spatial and temporal behavior of a fluid flow.</description>
+      
+    </item>
+    
+    <item>
+      <title>Numerical Methods for Simulating Transport Phenomena</title>
+      <link>https://thiagoneye.github.io/research/research2/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <author>thiagoneye@outlook.com (Thiago Rodrigues)</author>
+      <guid>https://thiagoneye.github.io/research/research2/</guid>
+      <description>Application of the numerical method of lines (NUMOL) to solve the classical problem of one-dimensional heat transfer in a cylinder.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

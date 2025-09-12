@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dimensionality Reduction on Home</title>
+    <link>https://thiagoneye.github.io/tags/dimensionality-reduction/</link>
+    <description>Recent content in Dimensionality Reduction on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>thiagoneye@outlook.com (Thiago Rodrigues)</managingEditor>
+    <webMaster>thiagoneye@outlook.com (Thiago Rodrigues)</webMaster>
+    
+    <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://thiagoneye.github.io/tags/dimensionality-reduction/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dynamic Mode Decomposition of Large-Scale Aerodynamic Simulations of Base-Bleed Projectiles</title>
+      <link>https://thiagoneye.github.io/publications/paper4/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <author>thiagoneye@outlook.com (Thiago Rodrigues)</author>
+      <guid>https://thiagoneye.github.io/publications/paper4/</guid>
+      <description>This study applies Dynamic Mode Decomposition to analyze and reduce CFD data of base-bleed military projectiles, identifying dominant dynamic modes of the velocity field from 2D axisymmetric simulations.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

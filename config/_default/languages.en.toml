@@ -1,0 +1,30 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Home"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Thiago Rodrigues"
+  email = "thiagoneye@outlook.com"
+  image = "img/photo.png"
+  headline = "Computational Engineering | Data Science | SciML"
+  bio = "Conduct research focused on applying data-driven techniques and scientific machine learning approaches to modeling and solving engineering problems."
+  links = [
+    { email = "mailto:thiagoneye@outlook.com" },
+    { github = "https://github.com/thiagoneye" },
+    { linkedin = "https://linkedin.com/in/thiagoney" },
+    { researchgate = "https://www.researchgate.net/profile/Thiago_Rodrigues16" },
+    { orcid = "https://orcid.org/0000-0002-0100-608X" },
+    { google = "https://scholar.google.com/citations?user=gIVRWqsAAAAJ&hl" },
+  ]
