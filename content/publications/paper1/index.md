@@ -4,6 +4,7 @@ date: 2019-08-19
 tags: ["Hydraulic Flow Units", "Reservoir Modelling", "Clustering", "Machine Learning"]
 author: ["Santos, M.R.B.", "Silva, L.C.", "Rodrigues, T.N.E.", "Oliveira, G.C.P."]
 summary: "This work investigates optimal well placement in a 3D heterogeneous reservoir by comparing different location strategies based on flow zone indicators (FZI and FZI*)."
+showPagination : true
 ---
 
 ---

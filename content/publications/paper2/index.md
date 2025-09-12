@@ -4,6 +4,7 @@ date: 2021-02-08
 tags: ["Reservoir Modeling", "Well Characterization", "Oil & Gas", "Hydraulic Flow Unit", "MRST", "Petrophysics", "Porous Medium"]
 author: ["Rodrigues, T.N.E.", "Oliveira, G.C.P."]
 summary: "This paper (preprint) reviews key graphical methods for petrophysical analysis aimed at identifying and classifying flow units in reservoirs."
+showPagination : true
 ---
 
 ---

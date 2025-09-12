@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: ""
 ---
 
 ---
@@ -17,7 +17,7 @@ title: "About Me"
 * **Bachelor's Degree in Mechanical Engineering** (2024)\
 **Institution:** Federal University of Paraíba, UFPB, Brazil\
 **Title:** Numerical Study of Transient Heat Transfer in Nuclear Reactor Fuel Rods\
-**Advisor:** [PhD. Jacques Cesar dos Santos](http://lattes.cnpq.br/3095303507056273/).
+**Advisor:** [PhD. Jacques Cesar dos Santos](http://lattes.cnpq.br/3095303507056273/)
 
 ---
 

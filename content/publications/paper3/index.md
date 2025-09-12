@@ -4,6 +4,7 @@ date: 2021-12-01
 tags: ["Reservoir Modeling", "Well Characterization", "Oil & Gas", "Hydraulic Flow Unit", "MRST", "Petrophysics", "Porous Medium"]
 author: ["Rodrigues, T.N.E.", "Oliveira, G.C.P.", "Lie, K.A.L."]
 summary: "GAWPS is a collection of computational routines intended to carry out wellbore profiling for flow unit detection in reservoir models. This acronym stands for Graphical Analysis for Well Placement Strategy."
+showPagination : true
 ---
 
 ---

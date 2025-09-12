@@ -2,15 +2,15 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Home"
+title = "Ney"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  logo = "img/second-logo.png"
+  secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -18,8 +18,9 @@ title = "Home"
   name = "Thiago Rodrigues"
   email = "thiagoneye@outlook.com"
   image = "img/photo.png"
+  imageQuality = 100
   headline = "Computational Engineering | Data Science | SciML"
-  bio = "Conduct research focused on applying data-driven techniques and scientific machine learning approaches to modeling and solving engineering problems."
+  bio = "Computational Engineering | Data Science | SciML"
   links = [
     { email = "mailto:thiagoneye@outlook.com" },
     { github = "https://github.com/thiagoneye" },

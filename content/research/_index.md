@@ -1,9 +1,6 @@
 ---
-title: "Research"
+title: ""
+
+groupByYear: false
+cardView: true
 ---
-
----
-
-## Project Portfolio
-
-

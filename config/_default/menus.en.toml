@@ -11,40 +11,34 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-    name = "About Me"
+    name = "about me"
     pageRef = "about_me"
     weight = 10
 
 [[main]]
-    name = "Experience"
+    name = "experience"
     pageRef = "experience"
     weight = 20
 
 [[main]]
-    name = "Research"
+    name = "research"
     pageRef = "research"
     weight = 30
 
 [[main]]
-    name = "Publications"
+    name = "publications"
     pageRef = "publications"
     weight = 40
 
 [[main]]
-    name = "Others"
+    name = "others"
     pageRef = "others"
     weight = 50
 
 [[main]]
-    name = "Tags"
-    pageRef = "tags"
-    weight = 60
-
-[[main]]
-    name = "Contact"
+    name = "contact"
     pageRef = "contact"
-    weight = 70
-
+    weight = 60
 
 
 #[[main]]

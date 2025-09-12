@@ -11,7 +11,7 @@ autoSwitchAppearance = true
 
 enableA11y = false
 enableSearch = true
-enableCodeCopy = false
+enableCodeCopy = true
 
 replyByEmail = false
 
@@ -27,7 +27,7 @@ disableTextInHeader = false
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 # defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
 
-# highlightCurrentMenuArea = true
+highlightCurrentMenuArea = true
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
@@ -37,7 +37,7 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -59,7 +59,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   disableHeroImageFilter = false # only used when layout equals hero
 
 [article]
-  showDate = true
+  showDate = false
   showViews = false
   showLikes = false
   showDateOnlyInArticle = false
@@ -77,16 +77,16 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
-  showPagination = true
+  showPagination = false
   invertPagination = false
-  showReadingTime = true
-  showTableOfContents = false
+  showReadingTime = false
+  showTableOfContents = true
   # showRelatedContent = false
   # relatedContentLimit = 3
   showTaxonomies = false # use showTaxonomies OR showCategoryOnly, not both
   showCategoryOnly = false # use showTaxonomies OR showCategoryOnly, not both
   showAuthorsBadges = false
-  showWordCount = true
+  showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
   showZenMode = false
 
@@ -96,11 +96,11 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
-  showSummary = false
+  showSummary = true
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = false
+  showCards = true
   orderByWeight = false
   groupByYear = true
   cardView = false

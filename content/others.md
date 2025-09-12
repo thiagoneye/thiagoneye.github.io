@@ -1,5 +1,5 @@
 ---
-title: "Others"
+title: ""
 ---
 
 ---

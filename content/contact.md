@@ -1,12 +1,6 @@
 ---
-title: "Contact"
+title: ""
 ---
-
----
-
-## E-mail
-
-thiagoneye@outlook.com
 
 ---
 
@@ -20,3 +14,8 @@ thiagoneye@outlook.com
 * **Country:** Brazil
 * **Postal Code:** 58.058-600
 
+---
+
+## E-mail
+
+thiagoneye@outlook.com

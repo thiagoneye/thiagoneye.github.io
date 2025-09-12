@@ -3,7 +3,7 @@ title: "Numerical Modeling and Characterization of Oil Reservoirs"
 date: 2019-12-01
 tags: ["Reservoir Modeling", "Well Characterization", "Oil & Gas", "Hydraulic Flow Unit", "MRST", "Petrophysics", "Porous Medium"]
 summary: "Computational representation of the physical and geological characteristics of oil wells."
-showToc: true
+showPagination : true
 ---
 
 ![](unisim1d_overview.png)

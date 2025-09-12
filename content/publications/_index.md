@@ -1,8 +1,3 @@
 ---
-title: "Publications"
+title: ""
 ---
-
----
-
-
-

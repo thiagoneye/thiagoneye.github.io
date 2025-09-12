@@ -4,6 +4,7 @@ date: 2025-06-02
 tags: ["Modal Analysis", "Fluid Dynamics", "Aerodynamics", "Dynamic Mode Decomposition", "Dimensionality Reduction", "Machine Learning", "Scientific Machine Learning", "Data-Driven Techniques"]
 author: ["Rodrigues, T.N.E.", "Lucena, R.M.", "Lemos, M.F.", "Mangiavacchi, N.", "Oliveira, G.C.P."]
 summary: "This study applies Dynamic Mode Decomposition to analyze and reduce CFD data of base-bleed military projectiles, identifying dominant dynamic modes of the velocity field from 2D axisymmetric simulations."
+showPagination : true
 ---
 
 ---
