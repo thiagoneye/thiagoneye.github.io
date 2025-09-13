@@ -2,7 +2,7 @@
 title: "Numerical Methods for Simulating Transport Phenomena"
 date: 2023-12-01
 tags: ["Numerical Analysis", "Differential Equations", "Transport Phenomena", "Heat Transfer", "Fluid Dynamics", "Computational Fluid Dynamics", "Scientific Computing"]
-summary: "Application of the numerical method of lines (NUMOL) to solve the classical problem of one-dimensional heat transfer in a cylinder."
+summary: "Application of numerical methods (such as finite differences, finite volumes, and finite elements) for the simulation of transport phenomena, including fluid dynamics and heat transfer."
 showPagination : true
 ---
 
