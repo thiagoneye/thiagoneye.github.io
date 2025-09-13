@@ -27,7 +27,7 @@
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>thiagoneye@outlook.com (Thiago Rodrigues)</author>
       <guid>http://localhost:1313/research/research2/</guid>
-      <description>Application of the numerical method of lines (NUMOL) to solve the classical problem of one-dimensional heat transfer in a cylinder.</description>
+      <description>Application of numerical methods (such as finite differences, finite volumes, and finite elements) for the simulation of transport phenomena, including fluid dynamics and heat transfer.</description>
       
     </item>
     

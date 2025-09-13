@@ -9,7 +9,57 @@
     <managingEditor>thiagoneye@outlook.com (Thiago Rodrigues)</managingEditor>
     <webMaster>thiagoneye@outlook.com (Thiago Rodrigues)</webMaster>
     
-    <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Data-Driven Modeling</title>
+      <link>http://localhost:1313/tags/data-driven-modeling/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <author>thiagoneye@outlook.com (Thiago Rodrigues)</author>
+      <guid>http://localhost:1313/tags/data-driven-modeling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Physics-Informed Neural Networks</title>
+      <link>http://localhost:1313/tags/physics-informed-neural-networks/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <author>thiagoneye@outlook.com (Thiago Rodrigues)</author>
+      <guid>http://localhost:1313/tags/physics-informed-neural-networks/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Scientific Computing</title>
+      <link>http://localhost:1313/tags/scientific-computing/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <author>thiagoneye@outlook.com (Thiago Rodrigues)</author>
+      <guid>http://localhost:1313/tags/scientific-computing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Scientific Machine Learning</title>
+      <link>http://localhost:1313/tags/scientific-machine-learning/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <author>thiagoneye@outlook.com (Thiago Rodrigues)</author>
+      <guid>http://localhost:1313/tags/scientific-machine-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Systems Identification</title>
+      <link>http://localhost:1313/tags/systems-identification/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <author>thiagoneye@outlook.com (Thiago Rodrigues)</author>
+      <guid>http://localhost:1313/tags/systems-identification/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Aerodynamics</title>
@@ -82,16 +132,6 @@
     </item>
     
     <item>
-      <title>Scientific Machine Learning</title>
-      <link>http://localhost:1313/tags/scientific-machine-learning/</link>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <author>thiagoneye@outlook.com (Thiago Rodrigues)</author>
-      <guid>http://localhost:1313/tags/scientific-machine-learning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Computational Fluid Dynamics</title>
       <link>http://localhost:1313/tags/computational-fluid-dynamics/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
@@ -127,16 +167,6 @@
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       <author>thiagoneye@outlook.com (Thiago Rodrigues)</author>
       <guid>http://localhost:1313/tags/numerical-analysis/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Scientific Computing</title>
-      <link>http://localhost:1313/tags/scientific-computing/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <author>thiagoneye@outlook.com (Thiago Rodrigues)</author>
-      <guid>http://localhost:1313/tags/scientific-computing/</guid>
       <description></description>
       
     </item>

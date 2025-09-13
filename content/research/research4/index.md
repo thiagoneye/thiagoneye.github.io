@@ -6,7 +6,7 @@ summary: "Development of machine learning models aimed at pattern identification
 showPagination : true
 ---
 
-# Scientific Machine Learning in Transport Phenomena
+---
 
 **Scientific Machine Learning (SciML)** is an approach that integrates machine learning with physical and scientific principles to model, simulate, and predict complex phenomena. In transport phenomena (such as fluid dynamics, heat transfer, and mass transport), SciML enables the development of models that combine experimental or simulated data with known physical laws, enhancing the accuracy and reliability of predictions.
 
@@ -19,19 +19,24 @@ Data-driven modeling is central to SciML, allowing complex patterns present in l
 SciML in transport offers several strategic applications, including:
 
 1. **Creation of Surrogate Models**
-* Replace computationally intensive simulations with fast models, enabling real-time optimization and control.
+
+Replace computationally intensive simulations with fast models, enabling real-time optimization and control.
 
 2. **Uncertainty Quantification**
-* Estimates the reliability of predictions and the impact of variability in system parameters, which is essential for safe and robust decision-making.
+
+Estimates the reliability of predictions and the impact of variability in system parameters, which is essential for safe and robust decision-making.
 
 3. **Reduced-Order Models**
-* Capture the essential dynamics of complex systems with fewer variables, reducing computational cost without significant loss of accuracy.
+
+Capture the essential dynamics of complex systems with fewer variables, reducing computational cost without significant loss of accuracy.
 
 4. **Governing Equation Discovery**
-* Identifies underlying physical laws or empirical correlations directly from experimental or simulation data, using techniques such as **Physics-Informed Neural Networks (PINNs)** and **Sparse Identification of Nonlinear Dynamics (SINDy)**.
+
+Identifies underlying physical laws or empirical correlations directly from experimental or simulation data, using techniques such as **Physics-Informed Neural Networks (PINNs)** and **Sparse Identification of Nonlinear Dynamics (SINDy)**.
 
 5. **Optimization and Control of Transport Systems**
-* Applications in aerodynamics, thermal systems, and industrial transport processes, where accurate and fast modeling enables improved performance and efficiency.
+
+Applications in aerodynamics, thermal systems, and industrial transport processes, where accurate and fast modeling enables improved performance and efficiency.
 
 ## Benefits of SciML
 

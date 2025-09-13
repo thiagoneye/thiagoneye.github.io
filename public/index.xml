@@ -9,7 +9,17 @@
     <managingEditor>thiagoneye@outlook.com (Thiago Rodrigues)</managingEditor>
     <webMaster>thiagoneye@outlook.com (Thiago Rodrigues)</webMaster>
     
-    <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Machine Learning Models for the Analysis of Transport Phenomena</title>
+      <link>http://localhost:1313/research/research4/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <author>thiagoneye@outlook.com (Thiago Rodrigues)</author>
+      <guid>http://localhost:1313/research/research4/</guid>
+      <description>Development of machine learning models aimed at pattern identification, incorporating constraints and principles derived from physical laws.</description>
+      
+    </item>
     
     <item>
       <title>Dynamic Mode Decomposition of Large-Scale Aerodynamic Simulations of Base-Bleed Projectiles</title>
@@ -37,7 +47,7 @@
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>thiagoneye@outlook.com (Thiago Rodrigues)</author>
       <guid>http://localhost:1313/research/research2/</guid>
-      <description>Application of the numerical method of lines (NUMOL) to solve the classical problem of one-dimensional heat transfer in a cylinder.</description>
+      <description>Application of numerical methods (such as finite differences, finite volumes, and finite elements) for the simulation of transport phenomena, including fluid dynamics and heat transfer.</description>
       
     </item>
     
