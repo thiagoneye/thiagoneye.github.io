@@ -23,7 +23,7 @@ title: ""
 
 ## Fields & Areas
 
-Fields of Expertise and Research Areas
+Fields and Areas of Interest
 
 * **Transport Phenomena**
     * Fluid Mechanics
@@ -33,6 +33,7 @@ Fields of Expertise and Research Areas
     * Computer Programming
     * Mathematical Modeling
 * **Numerical Methods**
+    * Finite Difference Methods (FDM)
     * Finite Volume Methods (FVM)
     * Finite Element Methods (FEM)
 * **Intelligent Systems**
@@ -47,7 +48,7 @@ Fields of Expertise and Research Areas
 * Languages: `python` `matlab` `shell`
 * Software Engineering: `object-oriented programming` `solid` `design patterns`
 * Quality Assurence: `unittest`
-* Data Science: `artificial intelligence` `machine learning` `statistics` `data mining`
+* Data Science: `artificial intelligence` `machine learning` `deep learning` `statistics` `data mining` `scikit-learn` `tensorflow` `keras`
 * Data Engineering: `apache hop` `apache beam` `databricks` `pyspark` 
 * Database: `sql` `mysql` `sql server` `postgresql` `sqlite` `nosql` `mongodb`
 * CI/CD: `git` `github`
@@ -79,4 +80,3 @@ Fields of Expertise and Research Areas
 ## Hobbies
 
 His interests include appreciating classic **cinema**, exploring a vast **musical** universe that spans rock, MPB, samba, reggae, jazz, and blues, dedicating time to **reading** both scientific and non-scientific works, practicing various **sports** such as swimming, running, weight training, rappelling, and cycling, in addition to playing **chess**.
-
