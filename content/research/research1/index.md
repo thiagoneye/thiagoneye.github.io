@@ -3,7 +3,7 @@ title: "Numerical Modeling and Characterization of Oil Reservoirs"
 date: 2019-12-01
 tags: ["Reservoir Modeling", "Well Characterization", "Oil & Gas", "Hydraulic Flow Unit", "MRST", "Petrophysics", "Porous Medium"]
 summary: "Computational representation of the physical and geological characteristics of oil wells."
-showPagination : true
+showPagination: true
 ---
 
 ![](unisim1d_overview.png)
@@ -40,10 +40,10 @@ The accuracy of the characterization is fundamental, as it defines the input par
 
 Petrophysics is the study of the physical properties of rocks that influence fluid flow in porous media. The main petrophysical properties for numerical modeling include:
 
-* Porosity ($\phi$): This is the fraction of the total rock volume occupied by pores (void spaces) where fluids can be stored. It's a measure of the reservoir's storage capacity.
-* Permeability ($k$): This is the ability of the rock to allow fluids to flow through its interconnected pores. It's a measure of the reservoir's hydraulic conductivity.
-* Fluid Saturation ($S_o$, $S_g$, $S_w$): Represents the fraction of the pore volume occupied by each fluid type (oil, gas, water). The sum of saturations must equal 1.
-* Compressibility ($c$): Measures the change in rock or fluid volume in response to a pressure change.
+* Porosity (\(\phi\)): This is the fraction of the total rock volume occupied by pores (void spaces) where fluids can be stored. It's a measure of the reservoir's storage capacity.
+* Permeability (\(k\)): This is the ability of the rock to allow fluids to flow through its interconnected pores. It's a measure of the reservoir's hydraulic conductivity.
+* Fluid Saturation (\(S_o\), \(S_g\), \(S_w\)): Represents the fraction of the pore volume occupied by each fluid type (oil, gas, water). The sum of saturations must equal 1.
+* Compressibility (\(c\)): Measures the change in rock or fluid volume in response to a pressure change.
 
 ### Hydraulic Flow Units
 
@@ -55,15 +55,15 @@ A hydraulic flow unit is a continuous and mappable volume of reservoir rock that
 
 Flow in porous media is the study of fluid movement (oil, gas, water) through the network of pores and pore throats of a reservoir rock. This process is governed by physical laws, with Darcy's Law being the basis for describing flow in laminar regimes:
 
-$$ q = - \dfrac{kA}{\mu} \dfrac{dP}{dx}$$
+$$q = - \dfrac{kA}{\mu} \dfrac{dP}{dx}$$
  
 Where:
 
-* $q$ is the volumetric flow rate
-* $k$ is the permeability of the porous medium
-* $A$ is the cross-sectional area
-* $\mu$ is the fluid viscosity
-* $\frac{dP}{dx}$ is the pressure gradient
+* \(q\) is the volumetric flow rate
+* \(k\) is the permeability of the porous medium
+* \(A\) is the cross-sectional area
+* \(\mu\) is the fluid viscosity
+* \(\frac{dP}{dx}\) is the pressure gradient
 
 Numerical modeling extends Darcy's Law to multiple phases (oil, gas, water) and to heterogeneous and anisotropic media, also considering the effects of gravity and capillarity.
 

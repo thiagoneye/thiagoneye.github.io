@@ -18,9 +18,7 @@ Transport phenomena (heat transfer, mass diffusion, and fluid flow) are governed
 
 Transport equations can be expressed in a unified form by the advection-diffusion equation, which describes the variation of a conserved scalar \(\phi\) in space and time:  
 
-\[
-\frac{\partial \phi}{\partial t} + \nabla \cdot (\mathbf{u} \phi) = \nabla \cdot (\Gamma \nabla \phi) + S
-\]
+$$\frac{\partial \phi}{\partial t} + \nabla \cdot (\mathbf{u} \phi) = \nabla \cdot (\Gamma \nabla \phi) + S$$
 
 where \(\mathbf{u}\) is the velocity field, \(\Gamma\) is the diffusion coefficient, and \(S\) is a source term. The solution of this equation, as well as its variants (including the Navier–Stokes equations) requires the discretization of the continuous domain into a finite number of points, elements, or control volumes.  
 

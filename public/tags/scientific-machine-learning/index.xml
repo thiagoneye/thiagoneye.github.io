@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scientific Machine Learning on Ney</title>
-    <link>http://localhost:1313/tags/scientific-machine-learning/</link>
+    <link>https://thiagoneye.github.io/tags/scientific-machine-learning/</link>
     <description>Recent content in Scientific Machine Learning on Ney</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>thiagoneye@outlook.com (Thiago Rodrigues)</managingEditor>
     <webMaster>thiagoneye@outlook.com (Thiago Rodrigues)</webMaster>
     
-    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/scientific-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://thiagoneye.github.io/tags/scientific-machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Machine Learning Models for the Analysis of Transport Phenomena</title>
-      <link>http://localhost:1313/research/research4/</link>
+      <link>https://thiagoneye.github.io/research/research4/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <author>thiagoneye@outlook.com (Thiago Rodrigues)</author>
-      <guid>http://localhost:1313/research/research4/</guid>
+      <guid>https://thiagoneye.github.io/research/research4/</guid>
       <description>Development of machine learning models aimed at pattern identification, incorporating constraints and principles derived from physical laws.</description>
       
     </item>
     
     <item>
       <title>Dynamic Mode Decomposition of Large-Scale Aerodynamic Simulations of Base-Bleed Projectiles</title>
-      <link>http://localhost:1313/publications/paper4/</link>
+      <link>https://thiagoneye.github.io/publications/paper4/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
       <author>thiagoneye@outlook.com (Thiago Rodrigues)</author>
-      <guid>http://localhost:1313/publications/paper4/</guid>
+      <guid>https://thiagoneye.github.io/publications/paper4/</guid>
       <description>This study applies Dynamic Mode Decomposition to analyze and reduce CFD data of base-bleed military projectiles, identifying dominant dynamic modes of the velocity field from 2D axisymmetric simulations.</description>
       
     </item>
