@@ -10,7 +10,7 @@ title: ""
 
 It is a global company, founded and based in Brazil for over 115 years. It is committed to delighting the world with amazing brands that convey lightness and joy to the everyday lives of its consumers. It owns the Havaianas brand, the world leader in open shoes, known for its iconic flip-flops that represent Brazilianness, comfort, and style. It also holds 49.2% of Rothy’s, a North American sustainable footwear brand.
 
-* **Sr Data Analyst** (Oct 2025 - Current) \
+* **Sr Data Analyst** (Oct 2025 - Present) \
 Reporting to the Executive Manager of New Industrial Technologies, responsible for contributing to the Digital Transformation of the Manufacturing Environment.
 
 ### [Moura Group](https://www.moura.com.br/)
@@ -30,6 +30,9 @@ Development of digital solutions to optimize manufacturing and support areas, co
 ---
 
 ## Academic
+
+* **Research** (Mar 2025 - Present) - [TRIL Lab's](https://tril.ci.ufpb.br/) \
+Research project carried out through the Support Program for Teaching and Scientific and Technological Research in National Defense (Pró-Defesa V), in partnership with the Navy, IPqM and EMGEPRON.
 
 * **Data Scientist** (Mar 2025 - Present) - [CS and CIS Joint chapter at UFPB](https://sites.google.com/view/ieee-cs-cis-joint-chapter/) \
 Volunteer in the Computational Intelligence department of IEEE UFPB.
